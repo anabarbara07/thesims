@@ -1,0 +1,75 @@
+LISTA DE DLCS
+
+Para desinstalar uma DLC, exclua a pasta referente a ela
+
+EP1 - The Sims 4 Ao Trabalho
+EP2 - The Sims 4 Junte-se à Galera
+EP3 - The Sims 4 Vida na Cidade
+EP4 - The Sims 4 Gatos e Cães
+EP5 - The Sims 4 Estações
+EP6 - The Sims 4 Rumo á Fama
+EP7 - The Sims 4 Ilhas Tropicais
+EP8 - The Sims 4 Vida Universitária
+EP9 - The Sims 4 Vida Sustentável
+EP10 - The Sims 4 Diversão na Neve
+EP11 - The Sims 4 Vida Campestre
+EP12 - The Sims 4 Vida no Ensino Médio
+EP13 - The Sims 4 A Aventura de Crescer
+EP14 - The Sims 4 Tomando as Rédeas
+FP1 - The Sims 4 Festas de Fim de Ano
+GP1 - The Sims 4 Retiro ao Ar Livre
+GP2 - The Sims 4 Dia de Spa
+GP3 - The Sims 4 Escapada Gourmet
+GP4 - The Sims 4 Vampiros
+GP5 - The Sims 4 Vida em Família
+GP6 - The Sims 4 Aventuras na Selva
+GP7 - The Sims 4 StrangerVille
+GP8 - The Sims 4 Reino da Magia
+GP9 - The Sims 4 Star Wars: Jornada para Batuu
+GP10 - The Sims 4 Decoração dos Sonhos
+GP11 - The Sims 4 Histórias de Casamento
+GP12 - The Sims 4 LobiSims
+SP1 - The Sims 4 Festa Luxuosa
+SP2 - The Sims 4 Terraço Perfeito
+SP3 - The Sims 4 Cozinha Maneira
+SP4 - The Sims 4 Assombroso
+SP5 - The Sims 4 Noite de Cinema
+SP6 - The Sims 4 Jardim Romântico
+SP7 - The Sims 4 Quarto das Crianças
+SP8 - The Sims 4 Diversão no Quintal
+SP9 - The Sims 4 Glamour Vintage
+SP10 - The Sims 4 Noite de Boliche
+SP11 - The Sims 4 Fitness
+SP12 - The Sims 4 Bebês
+SP13 - The Sims 4 Dia de Lavar as Roupas
+SP14 - The Sims 4 Meu Primeiro Bichinho
+SP15 - The Sims 4 Moschino
+SP16 - The Sims 4 Vida Compacta
+SP17 - The Sims 4 Truques de Tricô
+SP18 - The Sims 4 Sobrenatural
+SP20 - The Sims 4 Moda Retrô
+SP21 - The Sims 4 Cozinha Campestre
+SP22 - The Sims 4 Faxina Fantástica
+SP23 - The Sims 4 Oásis no Quintal
+SP24 - The Sims 4 Moda Street
+SP25 - The Sims 4 Loft Industrial
+SP26 - The Sims 4 Incheon Nas Alturas
+SP28 - The Sims 4 Moda Masculina Moderna
+SP29 - The Sims 4 Decoração Botânica
+SP30 - The Sims 4 Moda Bloco de Carnaval
+SP31 - The Sims 4 Decoração Exuberante
+SP32 - The Sims 4 Noite Chique
+SP33 - The Sims 4 Acampamento no Quintal
+SP34 - The Sims 4 Minimoda
+SP35 - The Sims 4 Paraiso Desertico
+SP36 - The Sims 4 Pastel pop
+SP37 - The Sims 4 Do bazar Para Casa
+SP38 - The Sims 4 Moda Intima
+SP39 - The Sims 4 Banho e Higiene
+SP40 - The Sims 4 Estufa Paradisíaca
+SP41 - The Sims 4 Tesouros do Porão
+SP42 - The Sims 4 De Volta Ao Grunge
+SP43 - The Sims 4 Canto da Leitura
+SP44 - The Sims 4 Estrela da Piscina
+SP45 - The Sims 4 Luxo Moderno
+SP46 - The Sims 4 Chef em Casa
